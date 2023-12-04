@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **yashrajput.social@gmail.com**
 
-- 📄 Know about my experiences [drive.google.com/file/d/1A73YUhEE-VT9aBxvFP1ZhcaP33duKwVg/view?usp=sharing](drive.google.com/file/d/1A73YUhEE-VT9aBxvFP1ZhcaP33duKwVg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
