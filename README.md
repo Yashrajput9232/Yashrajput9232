@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashrajput9232&label=Profile%20views&color=0e75b6&style=flat" alt="yashrajput9232" /> </p>
 
-- 🔭 I’m have worked with **IIT Varanasi** as an App Developer and have worked with Axis Securities as an Data Scientist
+- 🔭 I have worked with **IIT Varanasi** as an App Developer and have worked with Axis Securities as a Data Scientist
 
 - 👯 I’m looking to collaborate on a **Machine Learning Research paper**
 
